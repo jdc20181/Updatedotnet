@@ -21,3 +21,15 @@ Things to keep in mind:
 
 Everything is provided "AS IS" no warranties are given or implied. Failure to read the User-Guide will result in catastrophic results.
 Intended for non-commercial use, but not restricted. Not intended for large scale projects. 
+
+
+**Features**
+
+As of right now, this project is a WIP, I have it released in one of my browser projects, LightBrowse, but it needs optomised before released as a reusable solution. 
+
+- Updates with a version cap. Good for licensed upgrades/limited updates.
+
+- Updates with no version cap, good for open source, apps that update often. 
+
+More coming soon.
+
